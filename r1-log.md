@@ -17,9 +17,13 @@ Continued solving MySQL problems in https://codefights.com.  Solved Problems 24-
 Tweet: https://twitter.com/Shantan30002800/status/992450015049146368
 
 ### R1D4 
-Continued solving MySQL problems in https://codefights.com.  Solved Problems 28-31 under Arcade, Database.
+Continued solving MySQL problems in https://codefights.com.  Solved Problems 28-34 under Arcade, Database.
 Tweet: https://twitter.com/Shantan30002800/status/992753222107283457
 
 ### R1D5 
 Started learning Flutter from https://flutter.io.  Completed *Create your first app* in *Getting started* section.
 Twitter: https://twitter.com/Shantan30002800/status/993022980580982784
+
+### R1D6 
+Continued solving MySQL problems in https://codefights.com.  Solved Problem 35 under Arcade, Database.
+Twitter: https://twitter.com/Shantan30002800/status/993541675288027144
