@@ -27,3 +27,8 @@ Twitter: https://twitter.com/Shantan30002800/status/993022980580982784
 ### R1D6 
 Continued solving MySQL problems in https://codefights.com.  Solved Problem 35 under Arcade, Database.
 Twitter: https://twitter.com/Shantan30002800/status/993541675288027144
+
+### R1D7 
+Continued solving MySQL problems in https://codefights.com.  Solved Problem 36-42 under Arcade, Database.  Also
+solved problem 10 under Arcade, Intro.
+Twitter: https://twitter.com/Shantan30002800/status/993900453300666368
