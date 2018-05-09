@@ -29,6 +29,11 @@ Continued solving MySQL problems in https://codefights.com.  Solved Problem 35 u
 Twitter: https://twitter.com/Shantan30002800/status/993541675288027144
 
 ### R1D7 
-Continued solving MySQL problems in https://codefights.com.  Solved Problem 36-42 under Arcade, Database.  Also
+Continued solving MySQL problems in https://codefights.com.  Solved Problems 36-42 under Arcade, Database.  Also
 solved problem 10 under Arcade, Intro.
 Twitter: https://twitter.com/Shantan30002800/status/993900453300666368
+
+### R1D8 
+Continued solving MySQL problems in https://codefights.com.  Solved Problems 43-48 under Arcade, Database.  Also
+solved problems 11-12 under Arcade, Intro.
+Twitter: https://twitter.com/Shantan30002800/status/994268382081028099
