@@ -37,3 +37,7 @@ Twitter: https://twitter.com/Shantan30002800/status/993900453300666368
 Continued solving MySQL problems in https://codefights.com.  Solved Problems 43-48 under Arcade, Database.  Also
 solved problems 11-12 under Arcade, Intro.
 Twitter: https://twitter.com/Shantan30002800/status/994268382081028099
+
+### R1D9 
+Continued solving intro problems in https://codefights.com.  Solved Problems 13-18 under Arcade, Intro.
+Twitter: https://twitter.com/Shantan30002800/status/994635543504814080
