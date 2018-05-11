@@ -41,3 +41,8 @@ Twitter: https://twitter.com/Shantan30002800/status/994268382081028099
 ### R1D9 
 Continued solving intro problems in https://codefights.com.  Solved Problems 13-18 under Arcade, Intro.
 Twitter: https://twitter.com/Shantan30002800/status/994635543504814080
+
+### R1D10 
+Continued solving intro problems in https://codefights.com.  Solved Problems 19-23 under Arcade, Intro.
+Twitter: https://twitter.com/Shantan30002800/status/994995479359324160
+
