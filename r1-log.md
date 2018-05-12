@@ -49,4 +49,4 @@ Twitter: https://twitter.com/Shantan30002800/status/994995479359324160
 ### R1D11 
 Continued solving intro problems in https://codefights.com.  Solved Problems 24-29 under Arcade, Intro.
 Resumed solving Database problems.  Solved problems 49-54 under Arcade, Database.
-Twitter: https://twitter.com/Shantan30002800/status/
+Twitter: https://twitter.com/Shantan30002800/status/995344664164106240
