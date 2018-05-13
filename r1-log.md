@@ -50,3 +50,9 @@ Twitter: https://twitter.com/Shantan30002800/status/994995479359324160
 Continued solving intro problems in https://codefights.com.  Solved Problems 24-29 under Arcade, Intro.
 Resumed solving Database problems.  Solved problems 49-54 under Arcade, Database.
 Twitter: https://twitter.com/Shantan30002800/status/995344664164106240
+
+### R1D12 
+Continued solving intro problems in https://codefights.com.  Solved Problems 30-32 under Arcade, Intro.
+Resumed solving Database problems.  Solved problems 55-57 under Arcade, Database.
+Twitter: https://twitter.com/Shantan30002800/status/995685997487669250
+
