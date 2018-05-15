@@ -56,3 +56,11 @@ Continued solving intro problems in https://codefights.com.  Solved Problems 30-
 Resumed solving Database problems.  Solved problems 55-57 under Arcade, Database.
 Twitter: https://twitter.com/Shantan30002800/status/995685997487669250
 
+### R1D13
+Solved javascript problems from https://codewars.com.
+Twitter: https://twitter.com/Shantan30002800/status/996084135121731585
+
+### R1D4
+Continued solving problems from https://codewars.com using js.  Solved Algorithms -> Implementation problems
+from https://hackerrank.com.
+
