@@ -65,3 +65,7 @@ Continued solving problems from https://codewars.com using js.  Solved Algorithm
 from https://hackerrank.com.
 Twitter: https://twitter.com/Shantan30002800/status/996437392109199361
 
+### R1D15
+Continued solving "Algorithms -> Implementation" problems from https://hackerrank.com using js.
+Twitter:https://twitter.com/Shantan30002800/status/996801573152935938
+
