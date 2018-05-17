@@ -20,6 +20,7 @@ Tweet: https://twitter.com/Shantan30002800/status/992450015049146368
 Continued solving MySQL problems in https://codefights.com.  Solved Problems 28-34 under Arcade, Database.
 Tweet: https://twitter.com/Shantan30002800/status/992753222107283457
 
+
 ### R1D5 
 Started learning Flutter from https://flutter.io.  Completed *Create your first app* in *Getting started* section.
 Twitter: https://twitter.com/Shantan30002800/status/993022980580982784
@@ -68,4 +69,9 @@ Twitter: https://twitter.com/Shantan30002800/status/996437392109199361
 ### R1D15
 Continued solving "Algorithms -> Implementation" problems from https://hackerrank.com using js.
 Twitter:https://twitter.com/Shantan30002800/status/996801573152935938
+
+### R1D16
+Continued solving "Algorithms" problems from https://hackerrank.com.  Solved 4 problems from
+"Strings" subsection, 1 problem from each of "Sorting", "Implementation" subsections.
+Twitter:https://twitter.com/Shantan30002800/status/997156176000319489
 
