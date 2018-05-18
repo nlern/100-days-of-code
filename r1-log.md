@@ -75,3 +75,8 @@ Continued solving "Algorithms" problems from https://hackerrank.com.  Solved 4 p
 "Strings" subsection, 1 problem from each of "Sorting", "Implementation" subsections.
 Twitter:https://twitter.com/Shantan30002800/status/997156176000319489
 
+### R1D17
+Solved 1 problem under "Algorithms -> Strings" from https://hackerrank.com.  Read about Abstract Data Structures,
+Graphs, Dynamic programming.  Tried Dynamic programming problem from https://hackerrank.com. 
+Twitter:https://twitter.com/Shantan30002800/status/997520683788914694
+
