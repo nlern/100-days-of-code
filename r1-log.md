@@ -80,3 +80,7 @@ Solved 1 problem under "Algorithms -> Strings" from https://hackerrank.com.  Rea
 Graphs, Dynamic programming.  Tried Dynamic programming problem from https://hackerrank.com. 
 Twitter:https://twitter.com/Shantan30002800/status/997520683788914694
 
+### R1D18
+Solved 2 problems under "Algorithms > Strings" from https://hackerrank.com.
+Twitter:https://twitter.com/Shantan30002800/status/997875575523020800
+
