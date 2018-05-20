@@ -84,3 +84,8 @@ Twitter:https://twitter.com/Shantan30002800/status/997520683788914694
 Solved 2 problems under "Algorithms > Strings" from https://hackerrank.com.
 Twitter:https://twitter.com/Shantan30002800/status/997875575523020800
 
+### R1D19
+Partially solved (score 30/100) "How many Substrings" under "Algorithms -> Strings" from https://hackerrank.com.  Solved
+problems from "10 Days of JavaScript" tutorial.
+Twitter:https://twitter.com/Shantan30002800/status/998142720739872768
+
