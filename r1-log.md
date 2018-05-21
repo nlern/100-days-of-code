@@ -89,3 +89,7 @@ Partially solved (score 30/100) "How many Substrings" under "Algorithms -> Strin
 problems from "10 Days of JavaScript" tutorial.
 Twitter:https://twitter.com/Shantan30002800/status/998142720739872768
 
+### R1D20
+Solved problems under "Algorithms -> Sorting" from https://hackerrank.com.
+Twitter:https://twitter.com/Shantan30002800/status/998609849293426690
+
