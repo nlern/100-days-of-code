@@ -101,3 +101,7 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/998988617719648256
 Solved "Quicksort In-Place" using python 3 from https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/999331996823441409
 
+### R1D23
+Continued solving string problems from https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/999707188527616000
+
