@@ -103,5 +103,9 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/999331996823441409
 
 ### R1D23
 Continued solving string problems from https://hackerrank.com.
-Twitter: https://twitter.com/ShantanuSpeakin/status/999707188527616000
+Twitter:https://twitter.com/ShantanuSpeakin/status/999707188527616000
+
+### R1D24
+Continued solving string problems from https://hackerrank.com in python 3.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1000057495925280770
 
