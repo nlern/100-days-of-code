@@ -109,3 +109,9 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/999707188527616000
 Continued solving string problems from https://hackerrank.com in python 3.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1000057495925280770
 
+### R1D25
+Signed up for "World Codesprint 13" in https://hackerrank.com and solved first problem.
+Started solving problems in section "Mathematics" and "Artificial Intelligence" in python 3.
+Enjoyed solving "Artificial Intelligence > Bot Building" problems.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1000404935261937664
+
