@@ -120,3 +120,7 @@ Solved problems from "Databases > Relational Algebra", "Algorithms > Implementat
 > Bot Building" and "10 Days of Statistics" from https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1000723911003156480
 
+### R1D27
+Solved remaining "Day 1" problems from "10 Days of Statistics" from https://hackerrank.com.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1001154111683907589
+
