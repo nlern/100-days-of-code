@@ -116,8 +116,8 @@ Enjoyed solving "Artificial Intelligence > Bot Building" problems.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1000404935261937664
 
 ### R1D26
-Solved problems from "Databases > Relational Algebra", "Algorithms > Implementation", "Artificial Intelligence
-> Bot Building" and "10 Days of Statistics" from https://hackerrank.com.
+Solved problems from "Databases > Relational Algebra", "Algorithms > Implementation",
+"Artificial Intelligence>Bot Building" and "10 Days of Statistics" from https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1000723911003156480
 
 ### R1D27
