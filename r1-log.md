@@ -128,3 +128,7 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/1001154111683907589
 Solved problems from "Algorithms > Implementation" and "10 Days of Statistics" from https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1001512060948271104
 
+### R1D29
+Solved problems from "10 Days of Statistics" from https://hackerrank.com.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1001876993011601408
+
