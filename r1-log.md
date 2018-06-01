@@ -136,3 +136,7 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/1001876993011601408
 Continued solving problems from "10 Days of Statistics" on https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1002232440507764737
 
+### R1D31
+Completed "10 Days of Statistics" on https://hackerrank.com.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1002609859215462401
+
