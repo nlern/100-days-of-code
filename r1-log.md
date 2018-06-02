@@ -140,3 +140,7 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/1002232440507764737
 Completed "10 Days of Statistics" on https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1002609859215462401
 
+### R1D32
+Completed problems from "Datastructures > Arrays" on https://hackerrank.com.
+Twitter:https://twitter.com/ShantanuSpeakin/status/1002935684058042368
+
