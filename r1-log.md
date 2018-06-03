@@ -147,6 +147,7 @@ Twitter:https://twitter.com/ShantanuSpeakin/status/1002935684058042368
 
 ### R1D33
 Solved problems from "Algorithms > Implementation" and "Data Structures > Linked Lists" on
-https://hackerrank.com.  Started "Machine Learning" tutorial series on https://kaggle.com.
+https://hackerrank.com.  Started "Machine Learning" tutorial series on https://kaggle.com.  Solved
+one problem from "HourRank 28" on https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1003296124894109697
 
