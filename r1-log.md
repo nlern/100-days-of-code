@@ -141,6 +141,12 @@ Completed "10 Days of Statistics" on https://hackerrank.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1002609859215462401
 
 ### R1D32
-Completed problems from "Datastructures > Arrays" on https://hackerrank.com.
+Completed problems from "Datastructures > Arrays" on https://hackerrank.com.  Solved one daily challenge
+problem from https://codefights.com.
 Twitter:https://twitter.com/ShantanuSpeakin/status/1002935684058042368
+
+### R1D33
+Solved problems from "Algorithms > Implementation" and "Data Structures > Linked Lists" on
+https://hackerrank.com.  Started "Machine Learning" tutorial series on https://kaggle.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1003296124894109697
 
