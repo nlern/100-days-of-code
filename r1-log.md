@@ -151,3 +151,8 @@ https://hackerrank.com.  Started "Machine Learning" tutorial series on https://k
 one problem from "HourRank 28" on https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1003296124894109697
 
+### R1D34
+Tried solving "Merge Two Sorted Linked Lists" problem from "Data Structures > Linked Lists" on
+https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1003696276943327232
+
