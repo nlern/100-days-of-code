@@ -156,3 +156,7 @@ Tried solving "Merge Two Sorted Linked Lists" problem from "Data Structures > Li
 https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1003696276943327232
 
+### R1D35
+Solved problems from "Data Structures > Linked Lists" on https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1004055370304614400
+
