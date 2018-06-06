@@ -160,3 +160,8 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1003696276943327232
 Solved problems from "Data Structures > Linked Lists" on https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1004055370304614400
 
+### R1D36
+Completed problems from "Data Structures > Linked Lists" from https://hackerrank.com.  Started
+solving problems from "Data Structures > Trees" and "SQL > Advanced Select" from same site.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1004409466283012098
+
