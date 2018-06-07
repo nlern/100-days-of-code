@@ -165,3 +165,7 @@ Completed problems from "Data Structures > Linked Lists" from https://hackerrank
 solving problems from "Data Structures > Trees" and "SQL > Advanced Select" from same site.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1004409466283012098
 
+### R1D37
+Solved problems from "Data Structures > Trees" and "SQL > Advanced Select" on https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1004777374066487296
+
