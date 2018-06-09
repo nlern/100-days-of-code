@@ -173,3 +173,7 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1004777374066487296
 Solved problems from "Data Structures > Trees" on https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1005130467773829120
 
+### R1D39
+Solved problems from "Data Structures > Stack" on https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1005474063819726849
+
