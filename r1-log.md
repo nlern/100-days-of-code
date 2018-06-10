@@ -177,3 +177,8 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1005130467773829120
 Solved problems from "Data Structures > Stack" on https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1005474063819726849
 
+### R1D40
+Solved problems from "Mathematics", "Data Structures > Stack" from https://hackerrank.com.  Tried
+solving "Swap Nodes [Algo]" under "Data Structures > Trees" from same site.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1005865615138197504
+
