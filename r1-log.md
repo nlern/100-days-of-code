@@ -182,3 +182,7 @@ Solved problems from "Mathematics", "Data Structures > Stack" from https://hacke
 solving "Swap Nodes [Algo]" under "Data Structures > Trees" from same site.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1005865615138197504
 
+### R1D41
+Solved "Occupations" under "SQL > Advanced Select" from https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1006241141082198018
+
