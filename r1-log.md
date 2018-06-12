@@ -186,3 +186,8 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1005865615138197504
 Solved "Occupations" under "SQL > Advanced Select" from https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1006241141082198018
 
+### R1D42
+Tried solving "Is This a Binary Search Tree" under "Data Structures > Trees" on https://hackerrank.com and
+"closestCells" under "Arcade > Databases" on https://codefights.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1006597036429361152
+
