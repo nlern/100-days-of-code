@@ -191,3 +191,7 @@ Tried solving "Is This a Binary Search Tree" under "Data Structures > Trees" on 
 "closestCells" under "Arcade > Databases" on https://codefights.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1006597036429361152
 
+### R1D43
+Solved lots of SQL problems from https://hackerrank.com and https://codefights.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1006942076292849664
+
