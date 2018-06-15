@@ -199,3 +199,7 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1006942076292849664
 Continued solving SQL problems from https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1007303644679688192
 
+### R1D45
+Solved one SQL problem https://codefights.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1007670001468411905
+
