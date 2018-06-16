@@ -203,3 +203,7 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1007303644679688192
 Solved one SQL problem https://codefights.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1007670001468411905
 
+### R1D46
+Continued solving SQL problems from https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1008016543404478465
+
