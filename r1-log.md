@@ -211,3 +211,7 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1008016543404478465
 Solved one SQL problem from https://codefights.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1008382789136343040
 
+### R1D48
+Solved one problem under "Data Structures > Tree" from https://hackerrank.com.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1008770791356469249
+
