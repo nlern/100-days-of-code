@@ -215,3 +215,10 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1008382789136343040
 Solved one problem under "Data Structures > Tree" from https://hackerrank.com.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1008770791356469249
 
+# #Reset
+Restart again from Day 1 as I could not manage to code yesterday.
+
+### R1D1
+R1D1: Watched algorithms course from MIT Open Courseware on YouTube  https://www.youtube.com/watch?v=L2dxkb346i4.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1009492573818408970
+
