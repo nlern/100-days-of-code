@@ -219,6 +219,10 @@ Twitter: https://twitter.com/ShantanuSpeakin/status/1008770791356469249
 Restart again from Day 1 as I could not manage to code yesterday.
 
 ### R1D1
-R1D1: Watched algorithms course from MIT Open Courseware on YouTube  https://www.youtube.com/watch?v=L2dxkb346i4.
+Watched algorithms course from MIT Open Courseware on YouTube  https://www.youtube.com/watch?v=L2dxkb346i4.
 Twitter: https://twitter.com/ShantanuSpeakin/status/1009492573818408970
+
+### R1D2
+Continued watching MIT Opencourseware algorithms course (Lecture 2) on Youtube https://www.youtube.com/watch?v=L6iCwrQ71UI.
+Twitter: https://twitter.com/ShantanuSpeakin/status/1009846926328688648
 
